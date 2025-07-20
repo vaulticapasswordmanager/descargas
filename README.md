@@ -53,6 +53,8 @@ sitio de descargas de `Vaultica Password Manager'
 | Inicio de sesión | Gestor de contraseñas |
 |------------------|------------------------|
 
+file:///home/jaimegalvez/Im%C3%A1genes/Captura%20de%20pantalla%20de%202025-07-20%2014-12-01.png
+
 
 ---
 
