@@ -24,10 +24,15 @@ sitio de descargas de `Vaultica Password Manager'
 
 ## 🖼️ Interfaz (Capturas de Pantalla)
 
-| Inicio de sesión | Gestor de contraseñas |
+| Login | Gestor de contraseñas |
 |------------------|------------------------|
 
 <img width="1024" height="1024" alt="vaultica" src="https://github.com/vaulticapasswordmanager/descargas/blob/main/vaulticalogin.png" />
+
+| Registro de Usuario | Gestor de contraseñas |
+|------------------|------------------------|
+
+
 
 ---
 
