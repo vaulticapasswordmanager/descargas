@@ -32,6 +32,14 @@ sitio de descargas de `Vaultica Password Manager'
 | Registro de Usuario | Gestor de contraseñas |
 |------------------|------------------------|
 
+<img width="1024" height="1024" alt="vaultica" src="https://github.com/vaulticapasswordmanager/descargas/blob/main/vaulticaregistrousuario.png" />
+
+| Registro de Usuario | Gestor de contraseñas |
+|------------------|------------------------|
+
+<img width="1024" height="1024" alt="vaultica" src="https://github.com/vaulticapasswordmanager/descargas/blob/main/vaulticaregistrousuario2.png" />
+
+<img width="1024" height="1024" alt="vaultica" src="https://github.com/vaulticapasswordmanager/descargas/blob/main/vaulticaregistrousuario3.png" />
 
 
 ---
